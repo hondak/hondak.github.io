@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: test | Non-story]]></title>
+  <link href="http://hondak.github.io/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://hondak.github.io/"/>
+  <updated>2014-06-05T23:26:59+09:00</updated>
+  <id>http://hondak.github.io/</id>
+  <author>
+    <name><![CDATA[hondak]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[first test post]]></title>
+    <link href="http://hondak.github.io/blog/2014/06/05/test-post/"/>
+    <updated>2014-06-05T23:10:54+09:00</updated>
+    <id>http://hondak.github.io/blog/2014/06/05/test-post</id>
+    <content type="html"><![CDATA[<h2>いまさら</h2>
+
+<p>何もないのも寂しいのでoctopressを入れてみた。</p>
+]]></content>
+  </entry>
+  
+</feed>
